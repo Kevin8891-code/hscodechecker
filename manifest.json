@@ -2,12 +2,12 @@
   "name": "三人刑HS编码税率查询器",
   "short_name": "HS编码查询",
   "description": "快速查询海关编码及税率信息，支持综合税率计算和偷逃税额核算",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#3b82f6",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "./",
   "lang": "zh-CN",
   "icons": [
     {
